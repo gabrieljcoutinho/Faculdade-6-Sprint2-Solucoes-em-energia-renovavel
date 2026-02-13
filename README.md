@@ -8,7 +8,7 @@
 
 ### 🏠 Home (Painel de Produção)
 
-- Exibe a **produção de energia solar por hora** em tempo real.
+- Exibe a **produção de energia solar por hora** em tempo real.  
 
 - Possibilidade de **alternar entre 3 tipos de gráfico**:
 
